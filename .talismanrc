@@ -1,0 +1,162 @@
+fileignoreconfig:
+- filename: DE 1 - Databricks Workspace/DE 1.2 - Notebook Basics.py
+  checksum: 11325fcc07c1aa55a4eabaf9da9cd607cd092f36e6f103aeb487823950cf5fce
+- filename: DE 2 - ETL with Spark/DE 2.1 - Querying Files Directly.sql
+  checksum: 3694e612ba187d64ef66cee1a75930cd25607ebdc7022f71702192f51f17e182
+- filename: DE 2 - ETL with Spark/DE 2.2 - Providing Options for External Sources.sql
+  checksum: ea279a83f8f6fb1105f22b705fb1d58feaec172e656909e032916efea757b67b
+- filename: DE 2 - ETL with Spark/DE 2.3L - Extract Data Lab.sql
+  checksum: f433dca156e4fcc05497699d08d4f2eed7a0fd60a1a85476351144a308b13b8e
+- filename: DE 2 - ETL with Spark/DE 2.4 - Cleaning Data.sql
+  checksum: fd00c149a021051d0ee52db549c80ef2f97e4f247e583668888f90c2b965d6bc
+- filename: DE 2 - ETL with Spark/DE 2.5 - Complex Transformations.sql
+  checksum: 468c2030bb55cf5d541f6007d54eef94ccae1a8ee7e3c8cc123a6eca9d6efe25
+- filename: DE 2 - ETL with Spark/DE 2.6L - Reshape Data Lab.sql
+  checksum: 1055bb40481b31f13523aa977fcc520087621352c1afc8d62d9c873bbd0de935
+- filename: DE 2 - ETL with Spark/DE 2.7A - SQL UDFs.sql
+  checksum: 320869f74e6ef3638452c5787a450776482c4c2d7bdf015312fb8401f1ee6b9a
+- filename: DE 2 - ETL with Spark/DE 2.7B - Python UDFs.py
+  checksum: 306d383ba6dff3b5ad4888f5dd51453ff3f4bc51db35ce7804b9c3b7c09480e9
+- filename: DE 2 - ETL with Spark/DE 2.99 - OPTIONAL Higher Order Functions.sql
+  checksum: 9eb64f15ecd84822f6d5357a705eace907f69e3c83329d2ae60fef42ac958a8f
+- filename: DE 3 - Delta Lake/DE 3.1 - Schemas and Tables.sql
+  checksum: cbcdde041fc9c8b4da9f5b096a1e003d3887a961f8f393f9b406ce4ff30942c6
+- filename: DE 3 - Delta Lake/DE 3.2 - Set Up Delta Tables.sql
+  checksum: b2df1b87474c59e629fa72ea57e81bcd2d2a90fd24de09728961bfc9dfa30f78
+- filename: DE 3 - Delta Lake/DE 3.3 - Load Data into Delta Lake.sql
+  checksum: 811f27c147e5d21dc8fcc6ab6be2a87f4a54946d8c5eefe00c1d483b94ee1064
+- filename: DE 3 - Delta Lake/DE 3.4L - Load Data Lab.sql
+  checksum: 3f126aa597cf2309816e63b19006aadbf5a5517bda34f146922acbbadf7d1ce7
+- filename: DE 3 - Delta Lake/DE 3.5 - Version and Optimize Delta Tables.sql
+  checksum: b819d90add837433250634eeb79e440b25fd5ff51ed6cc078e8f184afe3d7c96
+- filename: DE 3 - Delta Lake/DE 3.6L - Manipulate Delta Tables Lab.sql
+  checksum: 26b19092b4f2d7ad217da5d21fd62884e232d12011dbb969fab7e53531161b30
+- filename: DE 3 - Delta Lake/Includes/Classroom-Setup-03.6L.py
+  checksum: 4a9ffc51c5ecdc6bedc72ef7c89c3cc4b38b4706fd06adbd5bf678bfd0d92d55
+- filename: DE 4 - Delta Live Tables/DE 4.1 - DLT UI Walkthrough.py
+  checksum: 914512f19f02feb92147922f1b51f902d595f889b7fa1c06dc8830cc98f4ad1f
+- filename: DE 4 - Delta Live Tables/DE 4.1A - SQL Pipelines/DE 4.1.1 - Orders Pipeline.sql
+  checksum: 696526dc25902f0948d6c1ee98b0c8ceae98b714b995c0844ee1e0fc6940a4b7
+- filename: DE 4 - Delta Live Tables/DE 4.1A - SQL Pipelines/DE 4.1.2 - Customers
+    Pipeline.sql
+  checksum: bf37ba53f8946e6a41c0c47a259d5d1a7df4c5c4fae95a4e359e0f714fbbfe48
+- filename: DE 4 - Delta Live Tables/DE 4.1A - SQL Pipelines/DE 4.1.3L - Status Pipeline
+    Lab.sql
+  checksum: 657f425e3bc0abd10818a4f2e0f0e752dc45e9f499df7ddd968961a9e0b0f30f
+- filename: DE 4 - Delta Live Tables/DE 4.1B - Python Pipelines/DE 4.1.1 - Orders
+    Pipeline.py
+  checksum: 45a9e0482bbec60993efc8794718d96d1cc1dfd02bb5c437531172de459e49b8
+- filename: DE 4 - Delta Live Tables/DE 4.1B - Python Pipelines/DE 4.1.2 - Customers
+    Pipeline.py
+  checksum: 56ac913a4ccad7f3852477cb0869850d9e3f4f3ae29a47ae8fff9ff783e7e8ca
+- filename: DE 4 - Delta Live Tables/DE 4.4 - Pipeline Event Logs.py
+  checksum: 9495d1975da5a89a83967ce01d3558298c2bb77e249bc4c65968ef9c2a436e2f
+- filename: DE 4 - Delta Live Tables/Includes/Classroom-Setup-04-Common.py
+  checksum: cac4cec5a8ddca24f82841fca7f76d2414e4012a7587dfd66ed51c6b081b78ed
+- filename: DE 5 - Workflow Jobs/DE 5.1 - Scheduling Tasks with the Jobs UI/DE 5.1.3
+    - DLT Job.sql
+  checksum: e1ebf6a1694e3038e8afe4105d9c1c71b68b1dbc9cb97df341b627c45f6810a5
+- filename: DE 5 - Workflow Jobs/DE 5.2L - Jobs Lab/DE 5.2.3L - DLT Job.sql
+  checksum: 1f04d6f43e84ef7bf3522721ab37a583a35ed8d53eaa1708ad2ca43c1e837878
+- filename: DE 5 - Workflow Jobs/Includes/Classroom-Setup-05.1-Common.py
+  checksum: dab2d9e87ae5998d56fa59899c34a662900aa6086b0c5bd5c7f5c1a7ba86234a
+- filename: DE 5 - Workflow Jobs/Includes/Classroom-Setup-05.2-Common.py
+  checksum: 1afcf6ff792e153da7dae555e9930d142bc5af0cc60182a97965757a4c4868a1
+- filename: DE 6 - Managing Permissions/DE 6.1 - Create and Govern Data with UC.sql
+  checksum: 375bff2ed56b1e47e4d6232a820f0e490fc728eaa7e1a50828da678f8f7c91b6
+- filename: DE 6 - Managing Permissions/DE 6.2L - Create and Share Tables in Unity
+    Catalog.sql
+  checksum: 9416206a3c74743f5abf4253d230ebbbcd6d40662d76597282467dda1d051c9e
+- filename: DE 6 - Managing Permissions/DE 6.3L - Create Views and Limit Table Access.sql
+  checksum: 48e1a7136efb1184815cb9c303fea8b5969eb729ad939400b45e780d198c1a2d
+- filename: Includes/_common.py
+  checksum: 67dbd488f22d9f6d54ea634fcbf645afa90d8a6fa21b004982a7e00b4fb732d9
+- filename: Includes/_dataset_index.py
+  checksum: 8e420b8ea626f1716da1e1f224a6324b9d5cf68147733e4486cbebbd64e9b842
+- filename: Includes/_multi-task-jobs-config.py
+  checksum: a668b1c6d4face666ea9f593e8649919daf943120e67d5a922549ba71050236d
+- filename: Includes/_pipeline_config.py
+  checksum: 7ef53a20fe64e1a6fbb4662386a3545591efb1bc0a4da8fed27646ad55a7c851
+- filename: Solutions/DE 1 - Databricks Workspace/DE 1.2 - Notebook Basics.py
+  checksum: 6cbef9bfaa6ab9ab289643f515ef8229e98ebed6330e5d706fd42024c588153d
+- filename: Solutions/DE 2 - ETL with Spark/DE 2.1 - Querying Files Directly.sql
+  checksum: 12658f25c17fa1a14d554b7bd04173cbfeda708535f5e032377defb1310643bc
+- filename: Solutions/DE 2 - ETL with Spark/DE 2.2 - Providing Options for External
+    Sources.sql
+  checksum: 3daee25be6695c36cc819a7dd7f69b67d957b9028c2f11a97383912136358843
+- filename: Solutions/DE 2 - ETL with Spark/DE 2.3L - Extract Data Lab.sql
+  checksum: 1d3bec0bf390e3e7411e43768b9125f5a9e81d5ab3783eec97072003d273352a
+- filename: Solutions/DE 2 - ETL with Spark/DE 2.4 - Cleaning Data.sql
+  checksum: d99c8a80bac3c9eebefd95600f2c78cfdf794b03d4f078f9abbd113a2c53ac95
+- filename: Solutions/DE 2 - ETL with Spark/DE 2.5 - Complex Transformations.sql
+  checksum: 9015ff0f77aec88a84393d11cd1279a99f54f41828f91b76a9f2457fbd7fc355
+- filename: Solutions/DE 2 - ETL with Spark/DE 2.6L - Reshape Data Lab.sql
+  checksum: e67757276a4904d3ac3e567c6479920ae0c1d9d3b0c1126f170a3df2785c4a67
+- filename: Solutions/DE 2 - ETL with Spark/DE 2.7A - SQL UDFs.sql
+  checksum: acef49dd094092f850c2461efd99716475d5125fb83c0d0528f452f682cb0439
+- filename: Solutions/DE 2 - ETL with Spark/DE 2.7B - Python UDFs.py
+  checksum: 2f4e0d11520b93913b050011cc848f00ad0a86a46c72a8394a4fda9c75b8acf0
+- filename: Solutions/DE 2 - ETL with Spark/DE 2.99 - OPTIONAL Higher Order Functions.sql
+  checksum: 367787e578fe2bef33e77619e2cd1f249bac2c9b6b9ef00c9d7e860598eae083
+- filename: Solutions/DE 3 - Delta Lake/DE 3.1 - Schemas and Tables.sql
+  checksum: 9b701999a9d36b6b6b1ce237941e97c75e93f45eb70646a2b8ea04f3e07a4d56
+- filename: Solutions/DE 3 - Delta Lake/DE 3.2 - Set Up Delta Tables.sql
+  checksum: d89cc79c6c050a4b33fa51a26e49a501fb47860d5e8cb7dfbe70f0f7d92147ac
+- filename: Solutions/DE 3 - Delta Lake/DE 3.3 - Load Data into Delta Lake.sql
+  checksum: f073bf9ee57ad97888354bc2a787eac88fc842fc1c156d80935a9c7fc067b192
+- filename: Solutions/DE 3 - Delta Lake/DE 3.4L - Load Data Lab.sql
+  checksum: 4da7fc443ef00a373f4d7bb731cbb4080cf5d4c608c55836f7f8abeaf36c58f8
+- filename: Solutions/DE 3 - Delta Lake/DE 3.5 - Version and Optimize Delta Tables.sql
+  checksum: 59788a98f2b62e4d9f4ec92092eca4649941fdaee3899c864ebf2b9dfb889459
+- filename: Solutions/DE 3 - Delta Lake/DE 3.6L - Manipulate Delta Tables Lab.sql
+  checksum: 2fab871476a70512598cfceb61a1f84f6f7885d587987cd9cfadbfe1ba908a0d
+- filename: Solutions/DE 3 - Delta Lake/Includes/Classroom-Setup-03.6L.py
+  checksum: f036b48493611ae876e7860ed6b28a9b5ec428ba2cff7f26b22970aee5338880
+- filename: Solutions/DE 4 - Delta Live Tables/DE 4.1 - DLT UI Walkthrough.py
+  checksum: 6f4fa03cc0bce71cf1a07bb14bf4604b13aca2272ff00864d59d5b8b88c7d7b5
+- filename: Solutions/DE 4 - Delta Live Tables/DE 4.1A - SQL Pipelines/DE 4.1.1 -
+    Orders Pipeline.sql
+  checksum: 8329d2fe2f7476fe6e1df6ad0d953aa95adcf15481fe9fe25e7e81ccc864a5dd
+- filename: Solutions/DE 4 - Delta Live Tables/DE 4.1A - SQL Pipelines/DE 4.1.2 -
+    Customers Pipeline.sql
+  checksum: 6a53e7ae2be0234c3be7715d44a9733bbf3ce449b1dfd8ee72437feb3ebdf02b
+- filename: Solutions/DE 4 - Delta Live Tables/DE 4.1A - SQL Pipelines/DE 4.1.3L -
+    Status Pipeline Lab.sql
+  checksum: 4b3b7c2eed4b6fac5b52dbc600050745c8edb010a1b66dced5670a125060523f
+- filename: Solutions/DE 4 - Delta Live Tables/DE 4.1B - Python Pipelines/DE 4.1.1
+    - Orders Pipeline.py
+  checksum: 640594c05b810863c1f093ce3f6e2bc726a48603c502814aeac148c770d1106b
+- filename: Solutions/DE 4 - Delta Live Tables/DE 4.1B - Python Pipelines/DE 4.1.2
+    - Customers Pipeline.py
+  checksum: b07f6e0e61751cd1b9c13563c6ea46f20f1b8f1f68e5ff4e327ad7dd9c6709bd
+- filename: Solutions/DE 4 - Delta Live Tables/DE 4.4 - Pipeline Event Logs.py
+  checksum: 8efc92ebb28a805d5759c617e9c78af583b082e2c1f39bd6e1755a4af7112e1f
+- filename: Solutions/DE 4 - Delta Live Tables/Includes/Classroom-Setup-04-Common.py
+  checksum: 68fec36baba7f60ef735d499fbfd9781457d543d10092e04ecd3bf790b90ec1f
+- filename: Solutions/DE 5 - Workflow Jobs/DE 5.1 - Scheduling Tasks with the Jobs
+    UI/DE 5.1.3 - DLT Job.sql
+  checksum: 45f19dba5defbdd9eb2464b0e59157b45c7a785e36cded46c23c9081f87c947c
+- filename: Solutions/DE 5 - Workflow Jobs/DE 5.2L - Jobs Lab/DE 5.2.3L - DLT Job.sql
+  checksum: 0caba5a1c9d5d32d9a108c2f3608554aa81f022910c3b852685ade9b067a19d9
+- filename: Solutions/DE 5 - Workflow Jobs/Includes/Classroom-Setup-05.1-Common.py
+  checksum: a75eaf3b94ad6d4e3cdd0fba44fff9c64ea8b3911295d8335cb3b89b37f44fb8
+- filename: Solutions/DE 5 - Workflow Jobs/Includes/Classroom-Setup-05.2-Common.py
+  checksum: d6030da4e452e3447fccee32545dc290fb3f1579b377ce66772f89296fd46e21
+- filename: Solutions/DE 6 - Managing Permissions/DE 6.1 - Create and Govern Data
+    with UC.sql
+  checksum: 12274109ddd0cdd24317722f269fda0617c0bca1cb8309e1afd1d15ba22e5037
+- filename: Solutions/DE 6 - Managing Permissions/DE 6.2L - Create and Share Tables
+    in Unity Catalog.sql
+  checksum: b7c0f825a7ffdf2cddffa9f0252199815a95971130560a5564fc32dfb02c4e33
+- filename: Solutions/DE 6 - Managing Permissions/DE 6.3L - Create Views and Limit
+    Table Access.sql
+  checksum: 56fc075db6777c6b0112fcb254821bd4f65b2cf6a2f06312770bf300ddea469c
+- filename: Solutions/Includes/_common.py
+  checksum: b40ff4591b0a7b1f5c85322643a826a2e3077bdcc8dc41db535f53a907679c93
+- filename: Solutions/Includes/_dataset_index.py
+  checksum: 449affec1086445ee71638727f845f81920cb1de1e99eb884a0bb7f51a96d80a
+- filename: Solutions/Includes/_multi-task-jobs-config.py
+  checksum: ed750e08250bf488e4797f4196c5c22c62be2b250a5df57e535206a07c81756b
+- filename: Solutions/Includes/_pipeline_config.py
+  checksum: d0f065efca9c8716b2d34e46e6e8ec5b6a280581d0877b610979266bc5000cc5
+version: "1.0"
